@@ -161,7 +161,8 @@ function function12(){
 }
 
 function function13(){
-  echo "We are in function11."
+  echo "Creating a backup..."
+  python3 ./sendFiles.py
 }
 
 function loops(){
@@ -239,10 +240,10 @@ echo -e  "\033[31m9\033[m - Starting httpx on hosts.titled.200.gau.uro. hosts.ti
 echo -e  "\033[31m10\033[m - Starting filter for 200 on hosts.titled.200.gau.uro.httpx. hosts.titled.200.gau.uro.httpx.200";
 echo -e  "\033[31m11\033[m - Stat github recon with gitrob. File saved to $parentDomain.gitrob";
 echo -e  "\033[31m12\033[m - Use Delfox to to search for XSS, SQLi or any other injection points. Output saved to delfox";
-echo -e "\033[31m13\033[m - Not yet implemented";
+echo -e "\033[31m13\033[m - Send a backup to telegram.";
 
-lastIn1=0
-lastIn2=0
+lastIn1=13
+lastIn2=13
 
 echo -e "\033[31mWarning:\033[m Last time you have entered \033[31m$lastIn1 $lastIn2\033[m"
 read -p "Choose range1 : " in1
@@ -252,6 +253,9 @@ read -p "Choose range2 : " in2
 sed -i .bak -r "s/^(lastIn2=).*/\1$in2/"  $filename
 
 loops
+rm -rf initial.sh.bak
+
+# time to Finish the job:
 echo "Script completed in $(format_time $SECONDS)"
 }
 
@@ -261,8 +265,6 @@ if (( $# < 2 )); then
 fi
 
 
-# time to Finish the job:
-echo "Script completed in $(format_time $SECONDS)"
 
 
 # check if the previous directory present.
