@@ -1,0 +1,37 @@
+# Dirsearch started Fri May  5 15:28:56 2023 as: /Users/abhijeetsingh/.pyenv/versions/3.9.5/bin/dirsearch -u https://fitternity.com
+
+404    31KB  https://fitternity.com/%2e%2e;/test
+303    39B   https://fitternity.com/js    -> REDIRECTS TO: /js/
+404    31KB  https://fitternity.com/js.old
+404    31KB  https://fitternity.com/html.bak
+404    31KB  https://fitternity.com/html
+404    31KB  https://fitternity.com/aspx.bak
+404    31KB  https://fitternity.com/!.gitignore
+404    31KB  https://fitternity.com/aspx
+404    31KB  https://fitternity.com/jsp.old
+404    31KB  https://fitternity.com/php.old
+404    31KB  https://fitternity.com/html.old
+404    31KB  https://fitternity.com/jsp.bak
+404    31KB  https://fitternity.com/php.tar
+404    31KB  https://fitternity.com/!.htaccess
+404    31KB  https://fitternity.com/!.htpasswd
+404    31KB  https://fitternity.com/js.bak
+404    31KB  https://fitternity.com/aspx.tar
+404    31KB  https://fitternity.com/+CSCOT+/oem
+404    31KB  https://fitternity.com/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/portal_inc.lua&default-language&lang=../
+404    31KB  https://fitternity.com/+CSCOT+/translation
+404    31KB  https://fitternity.com/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+404    31KB  https://fitternity.com/js.tar
+404    31KB  https://fitternity.com/aspx.tgz
+404    31KB  https://fitternity.com/php.tgz
+404    31KB  https://fitternity.com/html.tar
+404    31KB  https://fitternity.com/php.zip
+404    31KB  https://fitternity.com/js.zip
+404    31KB  https://fitternity.com/jsp.tgz
+404    31KB  https://fitternity.com/jsp.zip
+404    31KB  https://fitternity.com/html.txt
+404    31KB  https://fitternity.com/html.zip
+404    31KB  https://fitternity.com/js.tgz
+404    31KB  https://fitternity.com/jsp.txt
+404    31KB  https://fitternity.com/aspx.zip
+404    31KB  https://fitternity.com/aspx.txt

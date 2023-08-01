@@ -1,0 +1,16 @@
+# Dirsearch started Fri May  5 15:29:11 2023 as: /Users/abhijeetsingh/.pyenv/versions/3.9.5/bin/dirsearch -l ./hosts.titled.200 README.md amass domains hosts hosts.titled hosts.titled.200 hosts.titled.200.dirsearch-default initial.sh initial.sh.bak reports sendFiles.py uniq.domains wayacked_fitternity -t 50
+
+303    39B   https://fitternity.com/js    -> REDIRECTS TO: /js/
+502   524B   https://fitternity.com/+CSCOT+/translation
+404    31KB  https://fitternity.com/jsp.tgz
+502   524B   https://fitternity.com/.admin/
+502   524B   https://fitternity.com/.aliases
+404    31KB  https://fitternity.com/php
+404    31KB  https://fitternity.com/aspx.tgz
+502   524B   https://fitternity.com/.arclint
+404    31KB  https://fitternity.com/aspx.old
+404    31KB  https://fitternity.com/!.gitignore
+404    31KB  https://fitternity.com/aspx.php
+404    31KB  https://fitternity.com/js.txt
+404    31KB  https://fitternity.com/js.tgz
+502   524B   https://fitternity.com/.autotools

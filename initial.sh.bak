@@ -15,8 +15,9 @@ installer(){
   go install github.com/tomnomnom/meg@latest
   go install github.com/lc/gau/v2/cmd/gau@latest
   go install github.com/tomnomnom/unfurl@latest
-}
 
+
+}
 format_time() {
   ((h=${1}/3600))
   ((m=(${1}%3600)/60))
@@ -286,8 +287,5 @@ if (( $# < 2 )); then
   main
      exit  
 fi
-
-
-
 
 # check if the previous directory present.

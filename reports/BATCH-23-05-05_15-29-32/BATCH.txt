@@ -1,0 +1,32 @@
+# Dirsearch started Fri May  5 15:29:41 2023 as: /Users/abhijeetsingh/.pyenv/versions/3.9.5/bin/dirsearch -l ./hosts.titled.200 README.md amass domains hosts hosts.titled hosts.titled.200 hosts.titled.200.dirsearch-custom hosts.titled.200.dirsearch-default initial.sh reports sendFiles.py uniq.domains wayacked_fitternity -t 50
+
+404    31KB  https://fitternity.com/+CSCOT+/oem
+303    39B   https://fitternity.com/js    -> REDIRECTS TO: /js/
+404    31KB  https://fitternity.com/+CSCOT+/translation
+502   524B   https://fitternity.com/..;/
+502   524B   https://fitternity.com/.7z
+502   524B   https://fitternity.com/.agignore
+502   524B   https://fitternity.com/.analysis_options
+404    31KB  https://fitternity.com/jsp.txt
+502   524B   https://fitternity.com/.AppleDouble
+404    31KB  https://fitternity.com/!.htaccess
+404    31KB  https://fitternity.com/html.zip
+404    31KB  https://fitternity.com/html.txt
+502   524B   https://fitternity.com/.arcconfig
+502   524B   https://fitternity.com/.architect
+404    31KB  https://fitternity.com/html.php
+404    31KB  https://fitternity.com/aspx.php
+404    31KB  https://fitternity.com/.aws/credentials
+404    31KB  https://fitternity.com/.ackrc
+502   524B   https://fitternity.com/.babelrc.js
+404    31KB  https://fitternity.com/.azure/accessTokens.json
+502   524B   https://fitternity.com/.bash_profile
+502   524B   https://fitternity.com/.binstar.yml
+404    31KB  https://fitternity.com/.bluemix/pipeline.yml
+404    31KB  https://fitternity.com/.apdisk
+404    31KB  https://fitternity.com/.apt_generated/
+404    31KB  https://fitternity.com/.arcrc
+404    31KB  https://fitternity.com/.badsegment.log
+404    31KB  https://fitternity.com/.bower-cache
+404    31KB  https://fitternity.com/.babelrc.cjs
+404    31KB  https://fitternity.com/aspx.txt
