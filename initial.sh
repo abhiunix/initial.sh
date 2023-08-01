@@ -265,8 +265,8 @@ echo -e  "\033[31m11\033[m - Stat github recon with gitrob. File saved to $paren
 echo -e  "\033[31m12\033[m - Use Delfox to to search for XSS, SQLi or any other injection points. Output saved to delfox";
 echo -e "\033[31m13\033[m - Send a backup to telegram.";
 
-lastIn1=5
-lastIn2=6
+lastIn1=1
+lastIn2=4
 
 echo -e "\033[31mWarning:\033[m Last time you have entered \033[31m$lastIn1 $lastIn2\033[m"
 read -p "Choose range1 : " in1

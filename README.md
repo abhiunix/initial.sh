@@ -13,3 +13,10 @@ Tools integrated:
 10. gau
 11. uro
 12. gitrob
+
+# Run the script:
+```
+chmod +x initial.sh
+./initial.sh apple.com
+```
+![](images/demo.png)
